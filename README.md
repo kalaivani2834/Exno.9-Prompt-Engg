@@ -50,3 +50,54 @@ Save the generated videos and compare them to understand how different prompts i
 
 Result:
 The prompt-based video generation techniques were successfully explored using multiple AI tools. Variations in prompt structure significantly influenced video style, content, and motion, demonstrating the power of precision in prompt design.
+
+Tools for Video Generation:
+
+
+Tool	Description	Website
+Runway Gen-2	Text-to-video with cinematic effects	Runway Gen-2
+Synthesia	AI avatars and lip-synced video generation	Synthesia
+Pictory	Video generation from text summaries	Pictory
+DeepBrain	Realistic video generation with facial/lip-sync features	DeepBrain
+
+✅ Scenario 1: Dog in the Park
+1. Simple Prompt Version
+Prompt:
+"A dog playing in the park."
+
+2. Refined Prompt Version
+Prompt:
+"A golden retriever happily running through a green park on a sunny afternoon, chasing a frisbee thrown by a young boy near a tree."
+
+3. Time and Motion Enhanced Version
+Prompt:
+"A slow-motion video of a golden retriever leaping into the air to catch a frisbee in a sunlit park, with the camera panning around as the dog lands and wags its tail."
+
+4. Multiple Versions with Variations
+Version A:
+"A golden retriever running in circles chasing a red ball in a park full of autumn leaves."
+
+Version B:
+"A dog splashing in a fountain in the center of a park, with children laughing in the background and birds flying overhead."
+
+✅ Scenario 2: Futuristic Robot Cooking
+1. Simple Prompt Version
+Prompt:
+"A robot cooking in a kitchen."
+
+2. Refined Prompt Version
+Prompt:
+"A silver humanoid robot preparing dinner in a high-tech kitchen, placing ingredients into a smart oven with glowing LED panels and robotic arms assisting."
+
+3. Time and Motion Enhanced Version
+Prompt:
+"A cinematic video showing a futuristic robot chef chopping vegetables with lightning speed, steam rising from pots, and the camera slowly zooming out to reveal a sleek, neon-lit kitchen."
+
+4. Multiple Versions with Variations
+Version A:
+"An animated robot flipping pancakes in a retro-futuristic kitchen with pastel colors and hovering utensils."
+
+Version B:
+"A robot cooking a gourmet dish in space, using anti-gravity tools, while floating beside a circular glass window showing Earth in the background."
+
+
