@@ -2,7 +2,7 @@
 ### **Ex. No.: 9** - To Explore and Understand the Various Prompting Techniques Used for Generating Videos Through AI Models
 
 **Date:**
-**Register No.: 212222060094**
+**Register No.: 212222060104**
 
 ---
 
